@@ -6,7 +6,7 @@
 
     <groupId>com.flowlogix.weld</groupId>
     <artifactId>weld-se-native</artifactId>
-    <version>1.x-SNAPSHOT</version>
+    <version>5.1.2-4.Final</version>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
